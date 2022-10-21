@@ -147,7 +147,8 @@ div {
     height: 150px;
     margin-left: 300px;
     border: 1px solid black;
-    background-color: #ac2000;;
+    background-color: #ac2000;
+    color: rgb(255, 255, 255);;
 }
 
 #upperbar {
@@ -186,28 +187,28 @@ div {
 }
 
 #link2 {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #link3 {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #link4 {
-    color: #000;
+    color: rgb(255, 255, 255);
     background-color: rgb(255, 85, 0);
 }
 
 #link5 {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #link6 {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #link7 {
-    color: #000;
+    color: rgb(255, 255, 255);
 }
 
 #vergelijken {
@@ -258,17 +259,23 @@ div {
 
 #content {
     width: 800px;
-    height: 1020px;
+    height: 1580px;
     margin-left: 300px;
     border: 1px solid black;
-    background-color: #98270d;;
+    background-color: #98270d;
+    color: rgb(255, 255, 255);
+}
+
+#content a {
+    color: rgb(255, 255, 255);
 }
 
 #leftcontent {
     border: 1px solid black;
     float: left;
-    height: 1020px;
+    height: 1580px;
     width: 200px;
+    color: rgb(255, 255, 255);
 }
 
 #Home {
@@ -495,7 +502,7 @@ a.menubutton:hover {
 #VI {
     border: 1px solid black;
     float: left;
-    height: 150px;
+    height: 160px;
     width: 150px;
     margin-left: 22px;
     margin-top: 15px;
@@ -554,7 +561,7 @@ a.menubutton:hover {
     border: 1px solid #000;
     width: 600px;
     margin-left: 199px;
-    height: 1020px;
+    height: 1580px;
     background-color: #98270d;
 }
 
@@ -685,10 +692,45 @@ a.menubutton:hover {
     margin-top: -2px;
 }
 
+#delcroft {
+    height: 123px;
+    width: 166px;
+    margin-left: 0px;
+}
+
+#appelkwart {
+    height: 130px;
+    margin-left: 0px;
+}
+
+#granaatappel {
+    height: 132px;
+}
+
+#granaat {
+    height: 137px;
+}
+
+#gran3 {
+    height: 137px;
+}
+
+#granny {
+    height: 137px;
+}
+
+#Grannys {
+    height: 125px;
+}
+
+#Grans {
+    height: 145px;
+}
+
 #footer {
     width: 800px;
     height: 250px;
-    margin-left: 300px;
+    margin-left: -1px;
     border: 1px solid black;
     background-color: #ac2000;
 }
