@@ -124,7 +124,7 @@ body {
 
 #tekst {
     margin-top: 3px;
-    font-size: 35px;
+    font-size: 25px;
     color: #ffffff;
 }
 
@@ -150,6 +150,9 @@ body {
     background-color: #d31a06;
     margin-top: -180px;
     color: #ffffff;
+}
+.sss {
+  height: 180px;
 }
 
 #footer {

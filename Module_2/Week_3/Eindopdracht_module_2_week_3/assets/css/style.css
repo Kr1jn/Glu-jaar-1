@@ -159,13 +159,13 @@
 #header img {
     height: 75px;
     margin-left: 10px;
-    transition: 2s;
+    transition: 1.5s;
     float: left;
 }
 
 #header img:hover {
-    transition: 2s;
-    transform: rotate(720deg);
+    transition: 1.5s;
+    transform: rotate(1440deg);
 }
 
 #link1 {
