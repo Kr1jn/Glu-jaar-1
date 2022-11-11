@@ -216,8 +216,7 @@
 }
 
 #ver {
-    width: 100%;
-    max-width:100px;
+    width: 100px;
     height:20px;
     margin-left: -25px;
     display:block;
@@ -237,8 +236,7 @@
 
 
 #ver2 {
-    width: 100%;
-    max-width:100px;
+    width: 100px;
     height:20px;
     margin-left: 90px;
     margin-top: -20px;
@@ -735,7 +733,8 @@ a.menubutton:hover {
 }
 
 #gran3 {
-    height: 137px;
+    height: 124px;
+    margin-left: 20px;
 }
 
 #granny {
