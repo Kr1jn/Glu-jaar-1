@@ -1,8 +1,7 @@
-
 let allMusic = [
   {
-    name: "I Think i'm Normal",
-    artist: "Carter Ace",
+    name: "Duality",
+    artist: "Slipknot",
     img: "music-1",
     src: "music-1"
   },
