@@ -11,9 +11,9 @@
 }
 :root{
   --pink: #ff0d00;
-  --violet: #6a0000;
+  --violet: #350000;
   --lightblack: #fff;
-  --white: #000;
+  --white: rgb(66, 66, 66);
   --darkwhite: #bdbaba;
   --pinkshadow: #fdb3cd;
   --lightbshadow: rgba(0,0,0,0.15);
