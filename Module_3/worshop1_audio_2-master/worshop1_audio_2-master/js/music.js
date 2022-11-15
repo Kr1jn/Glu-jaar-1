@@ -6,14 +6,14 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Come and get your Love",
-    artist: "Redbone",
+    name: "Enter Sandman",
+    artist: "Metallica",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "No woman, No cry",
-    artist: "Tems",
+    name: "How do i say goodbye",
+    artist: "Dean Lewis",
     img: "music-3",
     src: "music-3"
   },
@@ -24,14 +24,14 @@ let allMusic = [
     src: "music-4"
   },
   {
-    name: "Happy",
-    artist: "Pharrell Williams",
+    name: "JUST LIKE YOU",
+    artist: "NF",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Something just like this",
-    artist: "The Chainsmokers & Coldplay",
+    name: "Friends",
+    artist: "Chase atlantic",
     img: "music-6",
     src: "music-6"
   },
