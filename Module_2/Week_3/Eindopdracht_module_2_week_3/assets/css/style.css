@@ -141,8 +141,8 @@
 #header {
     width: 100%;
     max-width: 800px;
+    margin: auto;
     height: 150px;
-    margin-left: 300px;
     border: 1px solid black;
     background-color: #ac2000;
     color: rgb(255, 255, 255);;
@@ -260,7 +260,7 @@
     width: 100%;
     max-width: 800px;
     height: 1580px;
-    margin-left: 300px;
+    margin: auto;
     border: 1px solid black;
     background-color: #98270d;
     color: rgb(255, 255, 255);
@@ -750,9 +750,10 @@ a.menubutton:hover {
 }
 
 #footer {
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
     height: 250px;
-    margin-left: -1px;
+    margin: auto;
     border: 1px solid black;
     background-color: #ac2000;
 }
