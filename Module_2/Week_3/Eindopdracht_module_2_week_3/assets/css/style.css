@@ -1,5 +1,6 @@
 [slider] {
-    width: 150px;
+    width: 100%;
+    max-width: 150px;
     position: relative;
     height: 5px;
     margin: 45px 0 10px 0;
@@ -43,7 +44,8 @@
     top: -7px;
     z-index: 2;
     height: 20px;
-    width: 20px;
+    width: 100%;
+    max-width: 20px;
     text-align: left;
     margin-left: -11px;
     cursor: pointer;
@@ -75,7 +77,8 @@
   
   div[slider] > input[type=range]::-webkit-slider-thumb {
     pointer-events: all;
-    width: 28px;
+    width: 100%;
+    max-width: 28px;
     height: 28px;
     border-radius: 0px;
     border: 0 none;
@@ -105,7 +108,8 @@
     z-index:3;
     background-color: #d02128;
     color: #fff;
-    width: 28px;
+    width: 100%;
+    max-width: 28px;
     height: 28px;
     border-radius: 28px;
     -webkit-border-radius: 28px;
