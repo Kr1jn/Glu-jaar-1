@@ -9,7 +9,7 @@
     max-width: 960px;
     margin: 0px auto;
     border: 1px solid black;
-    background-color: rgb(192, 20, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 #content {
@@ -17,7 +17,7 @@
     max-width: 960px;
     margin: 0px auto;
     border: 1px solid black;
-    background-color: rgb(192, 20, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 #producten {
@@ -45,4 +45,14 @@
 .ff {
    max-width: 60px;
    width: 100%;
+}
+
+#footer {
+    margin: auto;
+}
+
+#button {
+    color: rgb(0, 252, 0);
+    background-color: green;
+    border-radius: 50px;
 }
